@@ -38,7 +38,7 @@ def main():
 					print "Poison gass released, you are too late!"
 					break
 				print feedback
-   sys.exit()
+   print "--------GAME OVER---------"
 if __name__ == "__main__":
     main()
 
