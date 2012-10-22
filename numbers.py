@@ -33,7 +33,7 @@ def main():
         else:
             print feedback
             count += 1
-    if count == 11:
+    if count == 12:
         print "Well, the communists just won. The code is %s, by the way." % "".join(code)
     else:
         print "Well, I guess you found out that the code is %s." % "".join(code)
